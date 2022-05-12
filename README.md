@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jackob150
-- 👀 I’m interested in deep learning, genetic algorithms, differential equations, volleyball and football, chess and texas hold'em, and more...
+- 👀 I’m interested in deep learning, genetic algorithms, cybersecurity, differential equations, volleyball and football, chess and texas hold'em, and more...
 - 🌱 I’m currently learning Italian ;)
 - 📫 How to reach me: jackob150@gmail.com
 
